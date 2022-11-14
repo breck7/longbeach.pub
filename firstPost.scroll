@@ -27,5 +27,9 @@ quote
  Mine and publish the truth for the people.
  - The motto of The Long Beach Pub
 
+openGraphImage https://longbeach.pub/longBeach.png
+image longBeach.png
+ caption "Starting a new newspaper in Long Beach, California." rendered by https://playgroundai.com
+
 groups index
 import settings.scroll

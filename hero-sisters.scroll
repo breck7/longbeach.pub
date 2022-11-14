@@ -5,7 +5,7 @@ date 11-9-2022
 
 * Deukmejian Courthouse, Long Beach, California - The audience in room S18 sat in stunned silence today as a brave young Long Beach resident recounted in vivid detail how she and her sister fought off a knife wielding Bruce Willis, who broke into their home at 8am on Wednesday morning, March 2nd of this year. With Honorable Judge Debra A. Cole presiding, the District Attorney presented the people's side of case NA119104.
  dateline
- https://www.courts.ca.gov/facilities-la-longbeach.htm Deukmejian Courthouse, Long Beach, California
+ https://www.courts.ca.gov/facilities-la-longbeach.htm Deukmejian Courthouse
  https://www.ca.gov/archive/gov39/2012/05/18/news17552/index.html Honorable Judge Debra A. Cole
  https://www.lacourt.org/criminalcasesummary/ui/ case
  https://da.lacounty.gov/ District Attorney
@@ -46,6 +46,10 @@ endSnippet
 * The Long Beach Pub salutes Officer Pruss, Detective Hearst, the Assistant District Attorney, Judge Cole, and all the staff at their respective offices who today began delivering justice for our two brave Long Beach residents who are the heros in the real life version of _Die Hard_.
 
 author https://github.com/breck7 John Breck Yunits
+
+openGraphImage https://longbeach.pub/heroSisters.png
+image heroSisters.png
+ caption "Two Indian girls fighting a burglar with a knife in the style of a Batman comic" rendered by https://playgroundai.com
 
 groups index
 import settings.scroll
