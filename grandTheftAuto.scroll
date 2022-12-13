@@ -1,5 +1,8 @@
+import header.scroll
 title Grand Theft Auto: Long Beach
 date 11-14-2022
+groups index
+startColumns 2
 
 ## Young woman pleads no contest to Grand Theft Auto. Released on 2 years probabation for time served.
 
@@ -23,9 +26,4 @@ endSnippet
 
 author https://github.com/breck7 John Breck Yunits
 
-openGraphImage https://longbeach.pub/grandTheftAuto.png
-image grandTheftAuto.png
- caption "Stealing a car in the video game Grand Theft Auto near the Queen Mary in Long Beach California." rendered by https://playgroundai.com
-
-groups index
-import settings.scroll
+scrollFooter

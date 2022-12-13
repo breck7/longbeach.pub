@@ -1,5 +1,8 @@
+import header.scroll
 title Hero sisters fight off knife wielding Bruce Willis in Long Beach home breakin
 date 11-9-2022
+groups index
+startColumns 2
 
 ## Suffer multiple stab wounds but keep fighting. Willis ordered held. Bail set at $3M.
 
@@ -47,9 +50,4 @@ endSnippet
 
 author https://github.com/breck7 John Breck Yunits
 
-openGraphImage https://longbeach.pub/heroSisters.png
-image heroSisters.png
- caption "Two Indian girls fighting a burglar with a knife in the style of a Batman comic" rendered by https://playgroundai.com
-
-groups index
-import settings.scroll
+scrollFooter

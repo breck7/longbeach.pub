@@ -1,16 +1,6 @@
 importOnly
-siteTitle The Long Beach Pub
-siteDescription The Long Beach Pub is a new public domain local Long Beach, CA newspaper that mines and publishes the truth that our readers care about.
 github https://github.com/breck7/longbeach.pub
 viewSourceBaseUrl https://github.com/breck7/longbeach.pub/blob/main
 twitter https://twitter.com/breckyunits
-email longbeachpub@publicdomaincompany.com
+email tips@longbeach.pub
 baseUrl https://longbeach.pub/
-
-css
- img {
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
-  border-radius: 10px;
-  margin-top: 20px;
- }

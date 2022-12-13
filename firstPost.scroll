@@ -1,5 +1,9 @@
+import header.scroll
+groups index
 title Aloha Long Beach
 date 11-04-2022
+groups index
+startColumns 2
 
 * _The Long Beach Pub is a new public domain newspaper serving the people of Long Beach, CA._
 
@@ -27,9 +31,4 @@ quote
  Mine and publish the truth for the people.
  - The motto of The Long Beach Pub
 
-openGraphImage https://longbeach.pub/longBeach.png
-image longBeach.png
- caption "Starting a new newspaper in Long Beach, California." rendered by https://playgroundai.com
-
-groups index
-import settings.scroll
+scrollFooter

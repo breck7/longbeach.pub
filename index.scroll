@@ -1,2 +1,4 @@
-import settings.scroll
-template snippets index
+import header.scroll
+title The Hawai'i Pub
+snippets index
+scrollFooter

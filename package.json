@@ -1,8 +1,6 @@
 {
   "name": "longbeach.pub",
-  "version": "1.0.0",
   "description": "The Long Beach Pub is a public domain newspaper serving the people of Long Beach, CA",
-  "main": "index.js",
   "scripts": {
     "test": "scroll test"
   },
@@ -14,12 +12,12 @@
     "newspaper",
     "publicDomain"
   ],
-  "author": "Breck Yunits",
+  "author": "Breck Yunits et al",
   "bugs": {
     "url": "https://github.com/breck7/longbeach.pub/issues"
   },
   "homepage": "https://longbeach.pub/",
   "dependencies": {
-    "scroll-cli": "^42.0.0"
+    "scroll-cli": "^47.1.2"
   }
 }
