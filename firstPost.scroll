@@ -1,0 +1,34 @@
+import header.scroll
+groups index
+title Aloha Long Beach
+date 11-04-2022
+groups index
+startColumns 2
+
+* _The Long Beach Pub is a new public domain newspaper serving the people of Long Beach, CA._
+
+* Aloha people of Long Beach! Do you have amazing, true stories that are waiting to be told? If so, _today is your day_.
+ dateline
+
+* Public Domain Publishing Inc. has launched the Long Beach Pub, an open source, public domain newspaper to serve you, _the people of Long Beach_. Send us your stories now. _We're listening_.
+ https://publicdomaincompany.com/ Public Domain Publishing Inc
+
+endSnippet
+
+* I can't think of a better place to launch our worldwide company's first new local newspaper than "The International City". Our first California office is located in One World Trade Center and you can just feel the good energy flowing in to downtown Long Beach.
+ link http://www.onewtclb.com/ One World Trade Center
+
+* If you're interested in writing a story for us no need to ask for permission—pull requests are open.
+ https://github.com/breck7/longbeach.pub pull requests
+
+* If you have a great investigative story idea but need some funding, drop me an email.
+
+* Thank you and I look forward to serving the residents of Long Beach for many years to come.
+
+author https://github.com/breck7 John Breck Yunits
+
+quote
+ Mine and publish the truth for the people.
+ - The motto of The Long Beach Pub
+
+import footer.scroll
