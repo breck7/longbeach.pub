@@ -50,4 +50,4 @@ endSnippet
 
 author https://github.com/breck7 John Breck Yunits
 
-scrollFooter
+import footer.scroll
