@@ -8,6 +8,9 @@ css
   border-radius: 10px;
   margin-top: 20px;
  }
+ a {
+   text-decoration: none;
+ }
 
 metaTags
 scrollCssTag
