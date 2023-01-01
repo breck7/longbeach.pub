@@ -18,6 +18,6 @@
   },
   "homepage": "https://longbeach.pub/",
   "dependencies": {
-    "scroll-cli": "^47.1.2"
+    "scroll-cli": "^48.0.0"
   }
 }
