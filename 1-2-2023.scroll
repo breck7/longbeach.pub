@@ -1,0 +1,119 @@
+import header.scroll
+title The Long Beach Pub - Monday, January 2nd, 2023
+date 1-2-2023
+groups daily index
+
+startColumns 4
+
+* _The print at home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
+ link 1-2-2023.pdf PDF version
+
+endSnippet
+
+## Jobs
+
+* 169 new lists on Indeed including Artisan Bread Baker $30hr and Geology Technician $4,949mo
+ https://www.indeed.com/jobs?l=Long+Beach%2C+CA&radius=0&sort=date&fromage=1&vjk=3700273ac00b06ff Indeed
+* 2 new jobs on craigslist including: Carpenter with "awesome boss that would be me"
+ https://losangeles.craigslist.org/search/lgb/jjj craigslist
+
+## Housing
+
+* 15 new listings on HotPads including: $5,500 for 2BR in Belmont Shore
+ https://hotpads.com/long-beach-ca/apartments-for-rent?maxCreated=24 HotPads
+
+## Restaurants
+
+* Yelp lists 40 Italian Restaurants in Long Beach including these highest rated ones: Santa Fe Importers, Ellie's, La Tarantella Osteria and La Parolaccia Osteria.
+ https://www.yelp.com/search?find_desc=Italian&find_loc=Long+Beach%2C+CA%2C+United+States&sortby=rating Italian Restaurants
+ https://www.santafeimporters.com/ Santa Fe Importers
+ https://ellieslbc.com/ Ellie's
+ https://www.latarantellalb.com La Tarantella Osteria
+ https://laparolacciausa.com/ La Parolaccia Osteria
+
+## Airport @lgbairport
+ https://www.longbeach.gov/lgb/ Airport
+ https://twitter.com/lgbairport @lgbairport
+
+* 46 planes arriving today: mostly Southwest with a few from American, Hawaiian, and Delta
+ https://www.longbeach.gov/lgb/airlines-destinations/flight-status/ arriving
+
+## Port @portoflongbeach
+ https://polb.com/ Port
+ https://twitter.com/portoflongbeach @portoflongbeach
+
+* Harbor Commission Meeting - Mon, Jan 9, 1:30 PM @ Civic Chambers
+ https://polb.com/port-info/event-details/?e=10000431 Meeting
+
+## City Hall @LongBeachCity
+ https://twitter.com/longbeachcity @LongBeachCity
+
+* City Council Special Meeting - Tues, January 10, 2023 - 03:00 PM
+ https://docs.google.com/gview?url=https%3A%2F%2Flongbeach.granicus.com%2FDocumentViewer.php%3Ffile%3Dlongbeach_84a72c62535b305aaf5b3b1057541c7a.pdf%26view%3D1&embedded=true Special Meeting
+
+## Schools @longbeachusd
+ https://www.lbschools.net/ Schools
+ https://twitter.com/longbeachusd @longbeachusd
+
+* School resumes January 9th
+* Early Learning & Kindergarten Festival - January 21 @ Dooley Elementary | 9am - noon
+
+## Library @LBCityLibrary
+ https://www.longbeach.gov/library Library
+ https://twitter.com/LBCityLibrary @LBCityLibrary
+
+* There are 31 events this week on the Library calendar, including: Toddler Storytime on Thursday at 10am @ El Dorado
+ https://www.longbeach.gov/library/events/ Library calendar
+
+## Subreddit
+ https://www.reddit.com/r/longbeach
+
+* There were 22 new posts yesterday in the Long Beach Subreddit including Rain last night turned Chittick Field in Long Beach into a lake. (148 upvotes)
+ https://www.reddit.com/r/longbeach/comments/100sm1h/rain_last_night_turned_chittick_field_in_long/ Rain last night turned Chittick Field in Long Beach into a lake
+ https://www.reddit.com/r/longbeach/new/ new posts
+
+## Police @LBPD
+ https://www.longbeach.gov/police/ Police
+ https://twitter.com/LBPD @LBPD
+
+* 0 new incidents in the blotter. 2 news releases on the tragic traffic fatalities from 12/31/2022.
+ https://www.longbeach.gov/police/news/lbpd-blotter--jan-1-2022/ blotter
+
+## Courts
+ https://www.courts.ca.gov/facilities-la-longbeach.htm
+
+* Deukmejian Courthouse is closed on weekends.
+
+## Fire Department @lbfd
+ https://www.longbeach.gov/fire/ Fire Department
+ https://twitter.com/LBFD @lbfd
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=33.76672000000008&lon=-118.19239999999996#.Y6_To-zMIbk
+
+- 🌧 Today: 30% chance of rain after 4pm. Partly sunny. High near 60. ENE wind around 10mph becoming SSW in the afternoon.
+- 🌧 Tonight: Rain, mainly after 10pm. Low around 50. SE wind around 10mph. Chance of precipitation 100%.
+- 🌧 Tomorrow: 50% chance of rain, mainly before 4pm. Mostly cloudy. High near 62. SSE wind 10-15mph.
+- 🌧 Tomorrow Night: 30% chance of rain, mainly after 10pm. Cloudy. Low around 53. E wind around 10mph.
+
+html
+ <div style="break-inside: avoid-column;">
+
+## Chart of the day
+
+image topContainerPorts2020.png
+ caption Long Beach is the ~19th busiest port in the world. Read more about the competition between the ports of Los Angeles and Long Beach
+  https://www.bansard.com/en/news/global-top-20-container-ports-2020 19th
+  https://porteconomicsmanagement.org/pemp/contents/part9/competition-between-ports-of-los-angeles-long-beach/ competition between the ports of Los Angeles and Long Beach
+
+html
+ </div>
+
+## Have a great Sunday!
+
+author https://github.com/breck7 Breck Yunits - Editor
+
+* _Email subscribe@longbeach.pub to receive these PDFs in your email_
+
+endColumns
+import footer.scroll

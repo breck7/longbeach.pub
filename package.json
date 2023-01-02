@@ -3,7 +3,8 @@
   "description": "The Long Beach Pub is a public domain newspaper serving the people of Long Beach, CA",
   "scripts": {
     "test": "scroll test",
-    "build": "scroll build"
+    "build": "scroll build",
+    "open": "open index.html"
   },
   "repository": {
     "type": "git",
