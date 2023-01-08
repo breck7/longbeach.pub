@@ -1,0 +1,120 @@
+import header.scroll
+
+replace TODAY_NAME Sunday
+replace TODAYS_DATE 1-8-2023
+replace YESTERDAYS_DATE 1-7-2023
+title The Long Beach Pub - TODAY_NAME, January 8th, 2023
+
+date TODAYS_DATE
+groups daily index
+
+startColumns 4
+
+* _The print at home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
+ link TODAYS_DATE.pdf PDF version
+
+## Photo of the day
+image famousFaces.jpg
+ caption Familiar Faces. Can you name these celebrities born in Long Beach?
+  https://en.wikipedia.org/wiki/List_of_people_from_Long_Beach,_California celebrities born in Long Beach
+
+endSnippet
+
+## Jobs
+
+* 122 new jobs on Indeed.com including Jersey Mike's Subs Crew Member $17hr and Property Maintenance Tech $48,000yr
+ https://www.indeed.com/jobs?l=Long+Beach%2C+CA&radius=0&sort=date&fromage=1 Indeed.com
+* 12 new jobs on craigslist including Caregiver $20hr
+ https://losangeles.craigslist.org/search/lgb/jjj craigslist
+
+## Housing
+
+* 21 new listings on HotPads including: $2,500 for 1BR on Pacific Ave
+ https://hotpads.com/long-beach-ca/apartments-for-rent?maxCreated=24 HotPads
+
+## Restaurants
+
+* Google Places lists 20 restaurants with 4.5+ rating including: La Parolaccia Osteria Italiana, Ammatolí and The Breakfast Bar
+ https://www.google.com/search?q=long%20beach%20top%20restaurants&rflfq=1&tbm=lcl&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u15!2m2!15m1!1shas_1delivery!1m4!1u15!2m2!15m1!1sfeels_1romantic!1m4!1u15!2m2!15m1!1swelcomes_1children!1m4!1u22!2m2!21m1!1e1!1m5!1u15!2m2!15m1!1saccepts_1reservations!4e2!1m5!1u15!2m2!15m1!1shas_1wheelchair_1accessible_1entrance!4e2!1m5!1u15!2m2!15m1!1spopular_1with_1tourists!4e2!1m5!1u15!2m2!15m1!1sserves_1beer!4e2!1m5!1u15!2m2!15m1!1sserves_1dinner!4e2!1m5!1u15!2m2!15m1!1sserves_1lunch!4e2!1m5!1u15!2m2!15m1!1sserves_1wine!4e2!1m5!1u15!2m2!15m1!1shas_1takeout!4e2!1m5!1u15!2m2!15m1!1sserves_1dine_1in!4e2!1m5!1u15!2m2!15m1!1sserves_1happy_1hour!4e2!1m5!1u15!2m2!15m1!1sserves_1brunch!4e2!1m5!1u15!2m2!15m1!1sserves_1vegetarian!4e2!1m5!1u15!2m2!15m1!1shas_1childrens_1menu!4e2!1m5!1u15!2m2!15m1!1sserves_1breakfast!4e2!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&ved=2ahUKEwiw-6v7sq38AhVInKQKHbf9BeUQwywoAXoECBIQBg&rlst=f#rlfi=hd:;si:;mv:[[33.8284117,-118.10337320000001],[33.7476619,-118.19758899999998]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!1m5!1u2!3m2!2m1!2e9!4e2!2m1!1e2!2m1!1e5!2m1!1e1!2m1!1e3!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9 restaurants with 4.5+ rating
+ https://laparolacciausa.com/dinner-menu La Parolaccia Osteria Italiana
+ https://www.ammatoli.com/ Ammatolí
+ http://www.thebreakfastbarlbc.com/ The Breakfast Bar
+
+## Airport @lgbairport
+ https://www.longbeach.gov/lgb/ Airport
+ https://twitter.com/lgbairport @lgbairport
+
+* 43 planes arriving today: mostly Southwest with a few from American, Hawaiian, and Delta
+ https://www.longbeach.gov/lgb/airlines-destinations/flight-status/ arriving
+
+## Port @portoflongbeach
+ https://polb.com/ Port
+ https://twitter.com/portoflongbeach @portoflongbeach
+
+* Harbor Commission Meeting - Mon, Jan 9, 1:30 PM @ Civic Chambers
+ https://polb.com/port-info/event-details/?e=10000431 Meeting
+
+## City Hall @LongBeachCity
+ https://twitter.com/longbeachcity @LongBeachCity
+
+* City Council Special Meeting - Tues, January 10, 2023 - 03:00 PM
+ https://docs.google.com/gview?url=https%3A%2F%2Flongbeach.granicus.com%2FDocumentViewer.php%3Ffile%3Dlongbeach_84a72c62535b305aaf5b3b1057541c7a.pdf%26view%3D1&embedded=true Special Meeting
+
+## Schools @longbeachusd
+ https://www.lbschools.net/ Schools
+ https://twitter.com/longbeachusd @longbeachusd
+
+* School resumes January 9th
+* Early Learning & Kindergarten Festival - January 21 @ Dooley Elementary | 9am - noon
+
+## Library @LBCityLibrary
+ https://www.longbeach.gov/library Library
+ https://twitter.com/LBCityLibrary @LBCityLibrary
+
+* There are 31 events this week on the Library calendar, including: Toddler Storytime on Thursday at 10am @ El Dorado
+ https://www.longbeach.gov/library/events/ Library calendar
+
+## Subreddit
+ https://www.reddit.com/r/longbeach
+
+* There were 20 new posts yesterday in the Long Beach Subreddit including I absolutely LOVE the Long Beach parrots that visit our trees, especially in the spring. So I painted them. (216 upvotes)
+ https://www.reddit.com/r/longbeach/new new posts
+ https://www.reddit.com/r/longbeach/comments/10648is/i_absolutely_love_the_long_beach_parrots_that/ I absolutely LOVE the Long Beach parrots that visit our trees, especially in the spring. So I painted them.
+
+## Police @LBPD
+ https://www.longbeach.gov/police/ Police
+ https://twitter.com/LBPD @LBPD
+
+* 1 new incident in blotter from YESTERDAYS_DATE. One homicide by gunshot.
+ https://www.longbeach.gov/police/news/lbpd-blotter---jan.-7-2023/ blotter
+
+## Deukmejian Courthouse
+ https://www.courts.ca.gov/facilities-la-longbeach.htm
+
+* There are many civil cases today and many criminal cases.
+ https://www.lacourt.org/CivilCalendar/ui/mainpanel.aspx?CaseType=general#ResultTop civil cases
+ https://www.lacourt.org/criminalcalendar/ui/CalendarList.aspx criminal cases
+
+## Fire Department @lbfd
+ https://www.longbeach.gov/fire/ Fire Department
+ https://twitter.com/LBFD @lbfd
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=33.76672000000008&lon=-118.19239999999996#.Y6_To-zMIbk
+
+- 🌦 Today: A 20 percent chance of rain before 4pm. Mostly cloudy, with a high near 62. East southeast wind around 5 mph becoming south in the afternoon.
+- 🌧 Tonight: A 40 percent chance of rain after 10pm. Mostly cloudy, with a low around 53. Southeast wind 5 to 10 mph.
+- 🌧 Tomorrow: Rain likely, mainly after 10am. Cloudy, with a high near 62. Breezy, with a southeast wind 10 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.
+- 🌧 Tomorrow Night: Rain likely, then rain and possibly a thunderstorm after 10pm. Low around 56. Breezy, with a south southeast wind around 20 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.
+
+## Have a great TODAY_NAME!
+
+author https://github.com/breck7 Breck Yunits - Editor
+
+* _Email subscribe@longbeach.pub to receive these PDFs in your email_
+
+* <span class="printOnly">On the web: https://longbeach.pub/TODAYS_DATE.html. View yesterday's PDF. </span>
+ link YESTERDAYS_DATE.pdf yesterday's PDF
+
+endColumns
+import footer.scroll
