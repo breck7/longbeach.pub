@@ -8,6 +8,11 @@ startColumns 4
 * _The print at home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
  link 1-3-2023.pdf PDF version
 
+## Map of the day
+image starbucksInLongBeach.png
+ caption Long Beach is home to 21 Starbucks.
+  https://www.google.com/maps/search/long+beach+starbucks/@33.8173456,-118.2217908,12z/data=!3m1!4b1 21 Starbucks
+
 endSnippet
 
 ## Jobs
@@ -93,18 +98,6 @@ endSnippet
 - 🌧 Tonight: Rain, mainly after 4am. Low around 54. East wind around 10 mph. Chance of precipitation is 80%.
 - 🌧 Tomorrow: Rain. High near 62. Southeast wind 10 to 15 mph, with gusts as high as 20 mph. Chance of precipitation is 80%.
 - 🌧 Tomorrow Night: Rain. Low around 54. Breezy, with a south southeast wind 10 to 15 mph increasing to 20 to 25 mph after midnight. Winds could gust as high as 30 mph. Chance of precipitation is 80%.
-
-html
- <div style="break-inside: avoid-column;">
-
-## Map of the day
-
-image starbucksInLongBeach.png
- caption Long Beach is home to 21 Starbucks.
-  https://www.google.com/maps/search/long+beach+starbucks/@33.8173456,-118.2217908,12z/data=!3m1!4b1 21 Starbucks
-
-html
- </div>
 
 ## Have a great Tuesday!
 

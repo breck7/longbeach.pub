@@ -13,6 +13,11 @@ startColumns 4
 * _The print at home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
  link TODAYS_DATE.pdf PDF version
 
+## Map of the day
+image dominos.png
+ caption Long Beach is home to 9 Domino's.
+  https://www.google.com/maps/search/dominos+pizza+in+long+beach/@33.8428852,-118.3129739,11z/data=!3m1!4b1 9 Domino's
+
 endSnippet
 
 ## Jobs
@@ -104,18 +109,6 @@ endSnippet
 - 🌧 Tonight: A 30 percent chance of rain after 4am. Mostly cloudy, with a low around 48. South southwest wind around 5 mph becoming calm in the evening.
 - 🌦 Tomorrow: A 30 percent chance of rain, mainly before 10am. Mostly cloudy, with a high near 62. Southeast wind around 5 mph becoming south southwest in the afternoon.
 - ☁️ Tomorrow Night: Mostly cloudy, with a low around 52. North northwest wind around 5 mph becoming east southeast after midnight.
-
-html
- <div style="break-inside: avoid-column;">
-
-## Map of the day
-
-image dominos.png
- caption Long Beach is home to 9 Domino's.
-  https://www.google.com/maps/search/dominos+pizza+in+long+beach/@33.8428852,-118.3129739,11z/data=!3m1!4b1 9 Domino's
-
-html
- </div>
 
 ## Have a great TODAY_NAME!
 
