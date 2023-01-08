@@ -8,6 +8,12 @@ startColumns 4
 * _The print at home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
  link 1-2-2023.pdf PDF version
 
+## Chart of the day
+image topContainerPorts2020.png
+ caption Long Beach is the ~19th busiest port in the world. Read more about the competition between the ports of Los Angeles and Long Beach
+  https://www.bansard.com/en/news/global-top-20-container-ports-2020 19th
+  https://porteconomicsmanagement.org/pemp/contents/part9/competition-between-ports-of-los-angeles-long-beach/ competition between the ports of Los Angeles and Long Beach
+
 endSnippet
 
 ## Jobs
@@ -95,19 +101,6 @@ endSnippet
 - 🌧 Tonight: Rain, mainly after 10pm. Low around 50. SE wind around 10mph. Chance of precipitation 100%.
 - 🌧 Tomorrow: 50% chance of rain, mainly before 4pm. Mostly cloudy. High near 62. SSE wind 10-15mph.
 - 🌧 Tomorrow Night: 30% chance of rain, mainly after 10pm. Cloudy. Low around 53. E wind around 10mph.
-
-html
- <div style="break-inside: avoid-column;">
-
-## Chart of the day
-
-image topContainerPorts2020.png
- caption Long Beach is the ~19th busiest port in the world. Read more about the competition between the ports of Los Angeles and Long Beach
-  https://www.bansard.com/en/news/global-top-20-container-ports-2020 19th
-  https://porteconomicsmanagement.org/pemp/contents/part9/competition-between-ports-of-los-angeles-long-beach/ competition between the ports of Los Angeles and Long Beach
-
-html
- </div>
 
 ## Have a great Monday!
 

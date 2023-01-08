@@ -13,6 +13,11 @@ startColumns 4
 * _The print at home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
  link TODAYS_DATE.pdf PDF version
 
+## Photo of the day
+image flooding.webp
+ caption Reddit user typicaltaytay posted an image of the high waters during this week's storm.
+  https://www.reddit.com/r/longbeach/comments/10450at/too_close_for_comfort_stay_safe/ posted an image
+
 endSnippet
 
 ## Jobs
@@ -101,18 +106,6 @@ endSnippet
 - ✨ Tonight: Partly cloudy, with a low around 46. West northwest wind around 5 mph becoming northeast after midnight.
 - 🌤 Tomorrow: Mostly cloudy, with a high near 62. North northeast wind around 5 mph becoming south southwest in the afternoon.
 - ☁️ Tomorrow Night: Mostly cloudy, with a low around 47. South southwest wind around 5 mph becoming west northwest in the evening.
-
-html
- <div style="break-inside: avoid-column;">
-
-## Photo of the day
-
-image flooding.webp
- caption Reddit user typicaltaytay posted an image of the high waters during this week's storm.
-  https://www.reddit.com/r/longbeach/comments/10450at/too_close_for_comfort_stay_safe/ posted an image
-
-html
- </div>
 
 ## Have a great TODAY_NAME!
 

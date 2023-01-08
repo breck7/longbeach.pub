@@ -13,6 +13,12 @@ startColumns 4
 * _The print at home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
  link TODAYS_DATE.pdf PDF version
 
+## Map of the day
+image signalHill.png
+ caption As shown on this map, Signal Hill is a city completely surrounded by the city of Long Beach. It was incorporated in the 1920's as a separate city for oil tax reasons.
+  https://www.openstreetmap.org/relation/112100 map
+  https://en.wikipedia.org/wiki/Signal_Hill,_California Signal Hill
+
 endSnippet
 
 ## Jobs
@@ -101,19 +107,6 @@ endSnippet
 - 🌧 Tonight: A 20 percent chance of rain before 10pm. Partly cloudy, with a low around 48. West wind 5 to 10 mph.
 - ☀️ Tomorrow: Mostly sunny, with a high near 62. East northeast wind around 5 mph becoming south southwest in the afternoon.
 - ✨ Tomorrow Night: Mostly clear, with a low around 47. Northwest wind around 5 mph becoming northeast in the evening.
-
-html
- <div style="break-inside: avoid-column;">
-
-## Map of the day
-
-image signalHill.png
- caption As shown on this map, Signal Hill is a city completely surrounded by the city of Long Beach. It was incorporated in the 1920's as a separate city for oil tax reasons.
-  https://www.openstreetmap.org/relation/112100 map
-  https://en.wikipedia.org/wiki/Signal_Hill,_California Signal Hill
-
-html
- </div>
 
 ## Have a great TODAY_NAME!
 

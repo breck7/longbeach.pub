@@ -8,6 +8,11 @@ startColumns 4
 * _The print at home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
  link 1-4-2023.pdf PDF version
 
+## Event of the week
+image laughFactory.png
+ caption Laugh Factory Long Beach has shows Thursday, Friday, Saturday and Sunday.
+  http://www.laughfactory.com/long-beach Laugh Factory Long Beach
+
 endSnippet
 
 ## Jobs
@@ -98,18 +103,6 @@ endSnippet
 - 🌧 Tonight: Rain. Low around 56. Breezy, with a south southeast wind 15 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.
 - 🌧 Tomorrow: Rain, mainly before 4pm. High near 60. Windy, with a south wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%.
 - 🌧 Tomorrow Night: A 40 percent chance of rain before 10pm. Mostly cloudy, with a low around 49. West southwest wind around 5 mph.
-
-html
- <div style="break-inside: avoid-column;">
-
-## Event of the week
-
-image laughFactory.png
- caption Laugh Factory Long Beach has shows Thursday, Friday, Saturday and Sunday.
-  http://www.laughfactory.com/long-beach Laugh Factory Long Beach
-
-html
- </div>
 
 ## Have a great Wednesday!
 
