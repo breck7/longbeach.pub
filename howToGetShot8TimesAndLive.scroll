@@ -1,13 +1,13 @@
 import header.scroll
 title Unstoppable: The amazing true story of Kendric McGee, who was shot eight times and lived
 date 12-16-2022
-openGraphImage https://longbeach.pub/kendric/onBike.jpg
+openGraphImage https://longbeach.pub/stories/kendric/onBike.jpg
 groups stories index
 startColumns 4
 
 # Innocent 19 year old soccer player shot 8 times in South Central. Now 24, he wakes up at 3am and bikes 200 miles a week.
 
-image kendric/onBike.jpg
+image stories/kendric/onBike.jpg
  caption Five years after being shot eight times, Kendric bikes over 200 miles a week.
 
 endSnippet
@@ -42,7 +42,7 @@ endSnippet
 * Doctors at the hospital continued the life saving work of the parademics. A week later, Kendric could talk again. He had lost his spleen, a kidney, and had a bullet still lodged in his neck (C7), but somehow his spirit was undaunted.
  https://en.wikipedia.org/wiki/Cervical_vertebrae#Vertebra_prominens C7
 
-image kendric/stomach.jpeg
+image stories/kendric/stomach.jpeg
  caption Bullets came close but narrowly missed his heart, lungs and brain.
 
 ## I'm 24. I feel 80
@@ -58,7 +58,7 @@ image kendric/stomach.jpeg
 
 * Kendric looks forward to each day, hops on his bike, and will freely tell strangers "God is amazing."
 
-image kendric/foot.jpeg
+image stories/kendric/foot.jpeg
  caption The bullet holes don't stop Kendric from biking over 200 miles a week.
 
 author https://github.com/breck7 John Breck Yunits
