@@ -3,9 +3,14 @@
 <channel>
  <title>The Long Beach Pub</title>
  <link>https://longbeach.pub/</link>
- <description>The Long Beach Pub is a new public domain local Long Beach, CA newspaper that mines and publishes the truth that our readers care about.</description>
- <lastBuildDate>Tue, 10 Jan 2023 13:52:28 +0000</lastBuildDate>
+ <description>The Long Beach Pub is a public domain newspaper serving the people of Long Beach, CA</description>
+ <lastBuildDate>Wed, 11 Jan 2023 14:08:09 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>The Long Beach Pub - Wednesday, January 11th, 2023</title>
+  <link>https://longbeach.pub/1-11-2023.html</link>
+  <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>The Long Beach Pub - Tuesday, January 10th, 2023</title>
   <link>https://longbeach.pub/1-10-2023.html</link>

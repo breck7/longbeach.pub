@@ -1,6 +1,5 @@
 import settings.scroll
 title The Long Beach Pub
  hidden
-description The Long Beach Pub is a new public domain local Long Beach, CA newspaper that mines and publishes the truth that our readers care about.
 permalink feed.xml
 printFeed index
