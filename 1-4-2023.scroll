@@ -5,8 +5,10 @@ groups daily index
 
 startColumns 4
 
+replace TODAYS_DATE 1-4-2023
+
 * _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
- link 1-4-2023.pdf PDF version
+ link pdfs/TODAYS_DATE.pdf PDF version
 
 ## Event of the week
 image laughFactory.png

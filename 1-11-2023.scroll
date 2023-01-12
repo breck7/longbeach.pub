@@ -9,7 +9,7 @@ date TODAYS_DATE
 groups daily index
 
 * <center> _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_ </center>
- link TODAYS_DATE.pdf PDF version
+ link pdfs/TODAYS_DATE.pdf PDF version
 
 startColumns 4
 
