@@ -92,14 +92,4 @@ image photos/dinnerMenu.webp
   https://www.reddit.com/r/longbeach/new new posts
   https://www.reddit.com/r/longbeach/comments/1082ivr/long_beachs_hidden_gem_ma_n_pa_grocery_if_you/ Long Beach's hidden gem, Ma 'n Pa Grocery. If you haven't eaten here before you need to visit soon...
 
-## Have a great TODAY_NAME!
-
-author https://github.com/breck7 Breck Yunits - Editor
-
-endColumns
-
-* <center> _Email subscribe@longbeach.pub to receive these PDFs in your email_ <span class="printOnly">On the web: longbeach.pub/TODAYS_DATE.html. View yesterday's PDF. </span> </center>
- link YESTERDAYS_DATE.pdf yesterday's PDF
- link https://longbeach.pub/TODAYS_DATE.html longbeach.pub/TODAYS_DATE.html
-
-import footer.scroll
+import dailyFooter.scroll

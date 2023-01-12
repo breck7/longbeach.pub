@@ -89,14 +89,4 @@ endSnippet
 - 🌧 Tomorrow: Rain likely, mainly after 10am. Cloudy, with a high near 62. Breezy, with a southeast wind 10 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.
 - 🌧 Tomorrow Night: Rain likely, then rain and possibly a thunderstorm after 10pm. Low around 56. Breezy, with a south southeast wind around 20 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.
 
-## Have a great TODAY_NAME!
-
-author https://github.com/breck7 Breck Yunits - Editor
-
-* _Email subscribe@longbeach.pub to receive these PDFs in your email_
-
-* <span class="printOnly">On the web: https://longbeach.pub/TODAYS_DATE.html. View yesterday's PDF. </span>
- link YESTERDAYS_DATE.pdf yesterday's PDF
-
-endColumns
-import footer.scroll
+import dailyFooter.scroll

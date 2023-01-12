@@ -101,14 +101,4 @@ endSnippet
 - 🌤 Tomorrow: Mostly cloudy, with a high near 62. North northeast wind around 5 mph becoming south southwest in the afternoon.
 - ☁️ Tomorrow Night: Mostly cloudy, with a low around 47. South southwest wind around 5 mph becoming west northwest in the evening.
 
-## Have a great TODAY_NAME!
-
-author https://github.com/breck7 Breck Yunits - Editor
-
-* _Email subscribe@longbeach.pub to receive these PDFs in your email_
-
-* <span class="printOnly">On the web: https://longbeach.pub/TODAYS_DATE.html. View yesterday's PDF. </span>
- link YESTERDAYS_DATE.pdf yesterday's PDF
-
-endColumns
-import footer.scroll
+import dailyFooter.scroll
