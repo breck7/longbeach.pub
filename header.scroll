@@ -9,6 +9,10 @@ css
    display: none;
  }
  @media print {.printOnly {display: block !important;}}
+ .tagLine {
+   text-align: center;
+   margin-bottom: 10px;
+ }
 
 metaTags
 scrollCssTag
