@@ -5,13 +5,7 @@ replace TODAY_NAME Thursday
 replace TODAYS_DATE 1-5-2023
 replace YESTERDAYS_DATE 1-4-2023
 
-date TODAYS_DATE
-groups daily index
-
-startColumns 4
-
-* _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
- link pdfs/TODAYS_DATE.pdf PDF version
+import dailyHeader.scroll
 
 ## Map of the day
 image photos/signalHill.png

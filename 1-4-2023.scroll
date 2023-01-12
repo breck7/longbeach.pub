@@ -1,14 +1,8 @@
 import header.scroll
-title The Long Beach Pub - Wednesday, January 4th, 2023
-date 1-4-2023
-groups daily index
-
-startColumns 4
-
 replace TODAYS_DATE 1-4-2023
+title The Long Beach Pub - Wednesday, January 4th, 2023
 
-* _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
- link pdfs/TODAYS_DATE.pdf PDF version
+import dailyHeader.scroll
 
 ## Event of the week
 image photos/laughFactory.png

@@ -5,13 +5,7 @@ replace TODAYS_DATE 1-7-2023
 replace YESTERDAYS_DATE 1-6-2023
 title The Long Beach Pub - TODAY_NAME, January 7th, 2023
 
-date TODAYS_DATE
-groups daily index
-
-startColumns 4
-
-* _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
- link pdfs/TODAYS_DATE.pdf PDF version
+import dailyHeader.scroll
 
 ## Map of the day
 image photos/dominos.png

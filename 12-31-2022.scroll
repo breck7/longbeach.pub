@@ -1,14 +1,8 @@
 import header.scroll
 title The Long Beach Pub - Saturday, December 31st, 2022
-date 12-31-2022
-groups daily index
-
-startColumns 4
-
 replace TODAYS_DATE 12-31-2022
 
-* _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
- link pdfs/TODAYS_DATE.pdf PDF version
+import dailyHeader.scroll
 
 ## Map of the Day
 image photos/cityCouncilMap.jpg

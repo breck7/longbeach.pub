@@ -5,13 +5,7 @@ replace TODAYS_DATE 1-9-2023
 replace YESTERDAYS_DATE 1-8-2023
 title The Long Beach Pub - TODAY_NAME, January 9th, 2023
 
-date TODAYS_DATE
-groups daily index
-
-* <center> _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_ </center>
- link pdfs/TODAYS_DATE.pdf PDF version
-
-startColumns 4
+import dailyHeader.scroll
 
 ## Map of the day
  https://www.google.com/maps/search/long+beach+fire+department/@33.8111478,-118.2232824,12z/data=!3m1!4b1 Map

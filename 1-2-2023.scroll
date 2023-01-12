@@ -1,14 +1,8 @@
 import header.scroll
 title The Long Beach Pub - Monday, January 2nd, 2023
-date 1-2-2023
-groups daily index
-
 replace TODAYS_DATE 1-2-2023
 
-startColumns 4
-
-* _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
- link pdfs/TODAYS_DATE.pdf PDF version
+import dailyHeader.scroll
 
 ## Chart of the day
 image photos/topContainerPorts2020.png
