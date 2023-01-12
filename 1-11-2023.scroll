@@ -96,14 +96,4 @@ comment ## Fire Department @lbfd
 * There were 21 new posts yesterday in the Long Beach Subreddit including Vast Space becomes the newest member of “Space Beach”, with a mission to develop the world's first artificial-gravity space station (12 upvotes)
  https://www.reddit.com/r/longbeach/comments/108stxp/vast_space_becomes_the_newest_member_of_space/ Vast Space becomes the newest member of “Space Beach”, with a mission to develop the world's first artificial-gravity space station
 
-## Have a great TODAY_NAME!
-
-author https://github.com/breck7 Breck Yunits - Editor
-
-endColumns
-
-* <center> _Email subscribe@longbeach.pub to receive these PDFs in your email_ <span class="printOnly">On the web: longbeach.pub/TODAYS_DATE.html. View yesterday's PDF. </span> </center>
- link YESTERDAYS_DATE.pdf yesterday's PDF
- link https://longbeach.pub/TODAYS_DATE.html longbeach.pub/TODAYS_DATE.html
-
-import footer.scroll
+import dailyFooter.scroll

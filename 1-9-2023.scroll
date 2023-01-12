@@ -91,14 +91,4 @@ image photos/southwestNewOrleans.jpg
   https://www.reddit.com/r/longbeach/new new posts
   https://www.reddit.com/r/longbeach/comments/106v40e/today_is_the_southwest_airlines_inaugural_flight/ Today is the Southwest Airlines inaugural flight from Long Beach to New Orleans, here's some of the celebration
 
-## Have a great TODAY_NAME!
-
-author https://github.com/breck7 Breck Yunits - Editor
-
-endColumns
-
-* <center> _Email subscribe@longbeach.pub to receive these PDFs in your email_ <span class="printOnly">On the web: longbeach.pub/TODAYS_DATE.html. View yesterday's PDF. </span> </center>
- link YESTERDAYS_DATE.pdf yesterday's PDF
- link https://longbeach.pub/TODAYS_DATE.html longbeach.pub/TODAYS_DATE.html
-
-import footer.scroll
+import dailyFooter.scroll
