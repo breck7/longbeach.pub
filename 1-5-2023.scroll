@@ -11,7 +11,7 @@ groups daily index
 startColumns 4
 
 * _The print-at-home daily newspaper for residents of Long Beach, California. <span class="doNotPrint">PDF version.</span>_
- link TODAYS_DATE.pdf PDF version
+ link pdfs/TODAYS_DATE.pdf PDF version
 
 ## Map of the day
 image signalHill.png
