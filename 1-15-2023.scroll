@@ -1,0 +1,97 @@
+import header.scroll
+
+replace TODAY_NAME Sunday
+replace TODAYS_DATE 1-15-2023
+replace YESTERDAYS_DATE 1-14-2023
+title The Long Beach Pub - TODAY_NAME, January 15th, 2023
+
+import dailyHeader.scroll
+
+## Photo of the day
+image photos/rain.jpeg
+ caption Record rains on MLK Parade day did not dampen the spirits of these drummers.
+  https://twitter.com/LongBeachCity/status/1614424472513306624
+
+endSnippet
+
+## Jobs
+* 103 new jobs on Indeed.com including Travel Nurse $3.3k/wk and Registered Nurse $69hr
+ https://www.indeed.com/jobs?l=Long+Beach%2C+CA&radius=0&sort=date&fromage=1 Indeed.com
+* 5 new jobs on craigslist including Handyman $33hr
+ https://losangeles.craigslist.org/search/lgb/jjj craigslist
+
+## Housing
+* 20 new rental listings on HotPads including: $2,195 for 1BR in Rose Park
+ https://hotpads.com/long-beach-ca/apartments-for-rent?maxCreated=24 HotPads
+
+comment ## Love
+
+## Restaurants
+* Ever thought about opening your own? The Ciy's Department of Health and Human Services puts out a guide on opening a new restaurant in Long Beach.
+ https://www.longbeach.gov/globalassets/health/cpp---additional-resources/food-guide-to-opening-a-facility a guide
+
+## Airport @lgbairport
+ https://www.longbeach.gov/lgb/ Airport
+ https://twitter.com/lgbairport @lgbairport
+* 40+ planes arriving today: mostly Southwest with a few from American, Hawaiian, and Delta
+ https://www.longbeach.gov/lgb/airlines-destinations/flight-status/ arriving
+
+## Port @portoflongbeach
+ https://polb.com/ Port
+ https://twitter.com/portoflongbeach @portoflongbeach
+* Harbor Commission Meeting - Mon, Jan 23, 1:30 PM
+ https://polb.com/port-info/event-details/?e=16310 Harbor Commission Meeting
+* Applications are open for the Port of Long Beach high school scholarship
+ https://polb.com/community/education-resources-scholarships/#scholarships
+
+## City Hall @LongBeachCity
+ https://twitter.com/longbeachcity @LongBeachCity
+* Homelessness Proclaimed an Emergency in Long Beach
+ https://longbeach.gov/press-releases/homelessness-proclaimed-an-emergency-in-long-beach/
+
+## Schools @longbeachusd
+ https://www.lbschools.net/ Schools
+ https://twitter.com/longbeachusd @longbeachusd
+* Calendar: Monday the 16th schools are closed for MLK day
+ https://www.lbschools.net/Asset/Files/Employee_Relations/Calendars/22-23/2022-2023-Traditional-Calendar.pdf Calendar
+* Early Learning & Kindergarten Festival - January 21 @ Dooley Elementary | 9am - noon
+
+## Library @LBCityLibrary
+ https://www.longbeach.gov/library Library
+ https://twitter.com/LBCityLibrary @LBCityLibrary
+* There are 31 events this week on the Library calendar, including: Toddler Storytime on Thursday at 10am @ El Dorado
+ https://www.longbeach.gov/library/events/ Library calendar
+
+## Police @LBPD
+ https://www.longbeach.gov/police/ Police
+ https://twitter.com/LBPD @LBPD
+* 0 new incidents in blotter from YESTERDAYS_DATE.
+ https://www.longbeach.gov/police/news/lbpd-blotter---jan.-14-2023/ blotter
+
+## Deukmejian Courthouse
+ https://www.courts.ca.gov/facilities-la-longbeach.htm
+* There are many civil cases today and many criminal cases.
+ https://www.lacourt.org/CivilCalendar/ui/mainpanel.aspx?CaseType=general#ResultTop civil cases
+ https://www.lacourt.org/criminalcalendar/ui/CalendarList.aspx criminal cases
+
+comment ## Fire Department @lbfd
+ https://www.longbeach.gov/fire/ Fire Department
+ https://twitter.com/LBFD @lbfd
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=33.76672000000008&lon=-118.19239999999996#.Y6_To-zMIbk
+- 🌧 Today: Rain likely after 4pm. Mostly cloudy, with a high near 61. West southwest wind 10 to 15 mph. Chance of precipitation is 60%.
+- 🌧 Tonight: Rain. Low around 50. South wind 10 to 15 mph, with gusts as high as 20 mph. Chance of precipitation is 100%.
+
+- 🌧 Tomorrow: Rain likely before 10am, then a chance of showers after 10am. Partly sunny, with a high near 62. West southwest wind around 15 mph, with gusts as high as 20 mph. Chance of precipitation is 70%.
+- 🌧 Tomorrow Night: A 30 percent chance of showers before 10pm. Partly cloudy, with a low around 46. West northwest wind around 15 mph, with gusts as high as 20 mph.
+
+## Subreddit
+ https://www.reddit.com/r/longbeach/new
+* There were 6 new posts yesterday in the Long Beach Subreddit including:
+* Hey this is Steve Tsepelis, Owner of Broadway Video. Heard about the post yesterday on here and wanted to follow up with a call to action for community members that can help out any way possible. Thanks. Happy New Year - 149 upvotes
+ https://www.reddit.com/r/longbeach/comments/10c5sup/hey_this_is_steve_tsepelis_owner_of_broadway/
+* Long Beach battered by storm, with more rain on the way - 26 upvotes
+ https://www.reddit.com/r/longbeach/comments/10c5mvw/long_beach_battered_by_storm_with_more_rain_on/
+
+import dailyFooter.scroll
