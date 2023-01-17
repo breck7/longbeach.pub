@@ -1,6 +1,6 @@
 import header.scroll
 
-replace TODAY_NAME Monday
+replace TODAY_NAME Tuesday
 replace TODAYS_DATE 1-17-2023
 replace YESTERDAYS_DATE 1-16-2023
 title The Long Beach Pub - TODAY_NAME, January 17th, 2023
