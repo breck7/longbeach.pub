@@ -17,6 +17,6 @@
   "author": "Breck Yunits et al",
   "homepage": "https://longbeach.pub/",
   "dependencies": {
-    "scroll-cli": "^52.2.1"
+    "scroll-cli": "^54.0.0"
   }
 }
