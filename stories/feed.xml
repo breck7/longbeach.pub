@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>The Long Beach Pub</title>
+ <link>https://longbeach.pub/</link>
+ <description>The Long Beach Pub is a public domain newspaper serving the people of Long Beach, CA</description>
+ <lastBuildDate>Fri, 20 Jan 2023 18:53:18 +0000</lastBuildDate>
+ <language>en-us</language>
+ <item>
+  <title>Unstoppable: The amazing true story of Kendric McGee, who was shot eight times and lived</title>
+  <link>https://longbeach.pub/howToGetShot8TimesAndLive.html</link>
+  <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Main branch of the Long Beach Public Library System maintains impressive 5 day, 38 hour work week</title>
+  <link>https://longbeach.pub/kingLibrary.html</link>
+  <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Grand Theft Auto: Long Beach</title>
+  <link>https://longbeach.pub/grandTheftAuto.html</link>
+  <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Hero sisters fight off knife wielding Bruce Willis in Long Beach home breakin</title>
+  <link>https://longbeach.pub/hero-sisters.html</link>
+  <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Aloha Long Beach</title>
+  <link>https://longbeach.pub/firstPost.html</link>
+  <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+ </item>
+</channel>
+</rss>
