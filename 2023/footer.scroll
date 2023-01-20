@@ -1,0 +1,13 @@
+importOnly
+
+## Have a great TODAY_NAME!
+author https://github.com/breck7 Breck Yunits - Editor
+
+endColumns
+
+* <center> _Email subscribe@longbeach.pub to receive these PDFs in your email_ <span class="printOnly">On the web: longbeach.pub/TODAYS_DATE.html. View yesterday's PDF. </span> </center>
+ link YESTERDAYS_DATE.pdf yesterday's PDF
+ link https://longbeach.pub/TODAYS_DATE.html longbeach.pub/TODAYS_DATE.html
+
+keyboardNav
+scrollFooter
