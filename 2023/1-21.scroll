@@ -1,37 +1,39 @@
-date 1-20-2023
+date 1-21-2023
 import header.scroll
 
-## Map of the day
-image photos/laCountyBeaches.jpg
- caption A map of the beaches of Los Angeles County
-  https://beaches.lacounty.gov/find-a-beach/
+## Photo of the day
+image photos/oilDerrick.jpg
+ caption An oil derrick in the Long Beach Oil Field. Long Beach remains an active oil producer, though well over half of oil produced in the state now comes from Kern County.
+  https://en.wikipedia.org/wiki/Long_Beach_Oil_Field Long Beach Oil Field
+  link photos/2018_annual_production_well_count_by_county.pdf well over half
+  https://www.conservation.ca.gov/calgem/pubs_stats/annual_reports/Pages/annual_reports.aspx produced in the state
+  https://en.wikipedia.org/wiki/Kern_County,_California Kern County
 
 endSnippet
 
 ## Jobs
-* 231 new jobs on Indeed.com including Legal Assistant $25hr and HR Generalist $55hr
+* 288 new jobs on Indeed.com including Mailroom Associate $20hr and Claims Specialist $70k
  https://www.indeed.com/jobs?l=Long+Beach%2C+CA&radius=0&sort=date&fromage=1 Indeed.com
-* 31 new jobs on craigslist including Accountant $35hr
+* 31 new jobs on craigslist including Production Operator $32hr
  https://losangeles.craigslist.org/search/lgb/jjj craigslist
 
 ## Housing
-* 40 new rental listings on HotPads including: $3,695 2BR in Downtown
+* 47 new rental listings on HotPads including: $6,000 4BR in City College Area
  https://hotpads.com/long-beach-ca/apartments-for-rent?maxCreated=24 HotPads
 
 comment ## Love
 
 ## Restaurants
-* Yelp lists many Japanese Restaurants in Long Beach including these highest rated ones: 39 Degrees and Torisho
- https://www.yelp.com/search?cflt=japanese&find_loc=Long+Beach%2C+CA Japanese Restaurants
- http://www.sushiby39degrees.com/ 39 Degrees
- https://torisho-longbeach.business.site/ Torisho
+* Yelp lists 1 Brazilian Restaurant in Long Beach: Green Field Churrascaria
+ https://www.yelp.com/search?cflt=brazilian&find_loc=Long+Beach%2C+CA Brazilian Restaurants
+ http://www.greenfieldlongbeach.com/ Green Field Churrascaria
 
 ## Mayor's Office - @longbeachmayor @LongBeachCity
  https://twitter.com/longbeachmayor @longbeachmayor
  https://twitter.com/LongBeachCity @LongBeachCity
 comment https://longbeach.gov/city-press-release-archive/
-* Southwest Connects Long Beach to Kansas City with Daily Nonstop Service Starting March 9
- https://longbeach.gov/press-releases/southwest-connects-long-beach-to-kansas-city-with-daily-nonstop-service-starting-march-9/
+* City of Long Beach Awards $6.1 Million in Funding to Two Developers for New Affordable Rental Housing
+ https://longbeach.gov/press-releases/city-of-long-beach-awards-$6.1-million-in-funding-to---two-developers-for-new-affordable-rental-housing/
 
 ## Schools @longbeachusd
  https://www.lbschools.net/ Schools
@@ -63,12 +65,8 @@ comment https://longbeach.gov/city-press-release-archive/
  https://www.longbeach.gov/police/ Police
  https://twitter.com/LBPD @LBPD
 comment https://www.longbeach.gov/news-archive/?cid=6697
-* LBPD Officers Arrest Five Suspects For Stealing Fire Hydrants
- https://www.longbeach.gov/police/news/lbpd-officers-arrest-five-suspects-for-stealing-fire-hydrants/
-* Gang Detectives Identify And Arrest Attempted Murder Suspect
- https://www.longbeach.gov/police/news/gang-detectives-identify-and-arrest-attempted-murder-suspect/
-* 1 new incidents in blotter from YESTERDAYS_DATE including 1 shooting.
- https://www.longbeach.gov/police/news/lbpd-blotter---jan.-19-2023/ blotter
+* 0 new incidents in blotter from YESTERDAYS_DATE.
+ https://www.longbeach.gov/police/news/lbpd-blotter---jan-20-2023/ blotter
 
 ## Fire Department @lbfd
  https://www.longbeach.gov/fire/ Fire Department
@@ -83,15 +81,15 @@ comment Press releases: https://www.longbeach.gov/press-release-archive/?cid=670
 
 ## Weather
  https://forecast.weather.gov/MapClick.php?lat=33.76672000000008&lon=-118.19239999999996#.Y6_To-zMIbk
-- ☀️ Today: Sunny, with a high near 60. West southwest wind around 10 mph.
-- ✨ Tonight: Clear, with a low around 40. West wind around 5 mph becoming north northeast in the evening.
-- ☀️ Tomorrow: Sunny, with a high near 64. East northeast wind 5 to 10 mph becoming northwest in the afternoon.
-- ✨ Tomorrow Night: Clear, with a low around 42. North wind around 5 mph.
+- ☀️ Today: Sunny, with a high near 64. Northeast wind 5 to 10 mph becoming west southwest in the afternoon.
+- ✨ Tonight: Clear, with a low around 42. Southwest wind around 5 mph becoming northeast in the evening.
+- ☀️ Tomorrow: Mostly sunny, with a high near 60. North wind 5 to 10 mph becoming south in the morning.
+- ✨ Tomorrow Night: Partly cloudy, with a low around 43. East southeast wind around 10 mph.
 
 ## Subreddit
  https://www.reddit.com/r/longbeach/new
 * Posts yesterday in the Long Beach Subreddit included:
-* Why did developers stop building high rises in Alamitos Beach? - 11 upvotes
- https://www.reddit.com/r/longbeach/comments/10gqgpo/why_did_developers_stop_building_high_rises_in/
+* Filming on Ximeno and Vermont - 7 upvotes
+ https://www.reddit.com/r/longbeach/comments/10hiy56/filming_on_ximeno_and_vermont/
 
 import footer.scroll
