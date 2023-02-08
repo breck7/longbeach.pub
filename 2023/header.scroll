@@ -1,10 +1,10 @@
 importOnly
 import ../settings.scroll
 
-replaceJs TODAY_NAME dayjs(node.getParent().get("date")).format(`dddd`)
-replaceJs TODAYS_DATE dayjs(node.getParent().get("date")).format(`M-D`)
-replaceJs YESTERDAYS_DATE dayjs(dayjs(node.getParent().get("date")).unix() - 24*3600*1000).format(`M-D`)
-replaceJs MONTH_DAY dayjs(node.getParent().get("date")).format(`MMMM D`)
+replaceJs TODAY_NAME dayjs(node.root.get("date")).format(`dddd`)
+replaceJs TODAYS_DATE dayjs(node.root.get("date")).format(`M-D`)
+replaceJs YESTERDAYS_DATE dayjs(dayjs(node.root.get("date")).unix() - 24*3600*1000).format(`M-D`)
+replaceJs MONTH_DAY dayjs(node.root.get("date")).format(`MMMM D`)
 
 import ../style.scroll
 

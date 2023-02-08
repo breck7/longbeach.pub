@@ -1,1 +1,7 @@
-redirectTo 2023/index.html
+import settings.scroll
+metaTags
+scrollCssTag
+scrollHeader
+title The Long Beach Pub
+snippets 2023/index stories/index 2022/index
+scrollFooter
