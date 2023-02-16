@@ -1,10 +1,12 @@
+<div class="scrollSectionComponent"><h1 hidden="undefined" class="scrollTitleComponent"><a href="feed.xml">The Long Beach Pub</a></h1>
+
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="2.0">
 <channel>
  <title>The Long Beach Pub</title>
  <link>https://longbeach.pub/</link>
  <description>The Long Beach Pub is a public domain newspaper serving the people of Long Beach, CA</description>
- <lastBuildDate>Wed, 08 Feb 2023 22:16:30 +0000</lastBuildDate>
+ <lastBuildDate>Thu, 16 Feb 2023 19:49:06 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
   <title>Unstoppable: The amazing true story of Kendric McGee, who was shot eight times and lived</title>
@@ -33,3 +35,4 @@
  </item>
 </channel>
 </rss>
+</div>
