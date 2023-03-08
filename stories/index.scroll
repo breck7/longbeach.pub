@@ -1,4 +1,5 @@
 import header.scroll
 title The Long Beach Pub - Stories
+homeLink ../index.html
 snippets index
 scrollFooter
