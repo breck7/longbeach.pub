@@ -1,5 +1,6 @@
 importOnly
 import ../settings.scroll
+homeLink ../index.html
 import ../style.scroll
 metaTags
 scrollCssTag
