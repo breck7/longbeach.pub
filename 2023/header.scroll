@@ -9,8 +9,8 @@ homeLink ../index.html
 import ../style.scroll
 
 metaTags
-scrollCssTag
-scrollHeader
+gazetteTheme
+gazetteHeader
 
 title The Long Beach Pub - TODAY_NAME, MONTH_DAY, 2023
 

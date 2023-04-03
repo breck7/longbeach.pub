@@ -1,8 +1,8 @@
 import ../settings.scroll
 homeLink ../index.html
 metaTags
-scrollCssTag
-scrollHeader
+gazetteTheme
+gazetteHeader
 title The Long Beach Pub - 2023
 snippets index
-scrollFooter
+gazetteFooter
