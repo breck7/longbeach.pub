@@ -1,9 +1,9 @@
 import ../settings.scroll
 
 metaTags
-scrollCssTag
+gazetteTheme
 import ../style.scroll
-scrollHeader
+gazetteHeader
 
 title The Long Beach Pub - Saturday, December 31st, 2022
 replace TODAYS_DATE 12-31
@@ -112,4 +112,4 @@ endSnippet
 author https://github.com/breck7 Breck Yunits - Editor
 
 endColumns
-scrollFooter
+gazetteFooter
